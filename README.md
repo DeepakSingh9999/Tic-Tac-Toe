@@ -23,5 +23,8 @@ https://tic-tac-toe-seven-rho-73.vercel.app/
 
 ## 🕹️ Demo:
 
+<img width="1918" height="1077" alt="Image" src="https://github.com/user-attachments/assets/f8997d1e-c772-4f1e-8a5b-244e044b4aad" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/619df9a0-0d12-46bd-945b-a417ab3e60d2" />
 
 ---
